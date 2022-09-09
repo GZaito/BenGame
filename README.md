@@ -1,1 +1,1 @@
-## this an attempt at making a blackjack game 
+## This is  an attempt at making a blackjack game using python  
